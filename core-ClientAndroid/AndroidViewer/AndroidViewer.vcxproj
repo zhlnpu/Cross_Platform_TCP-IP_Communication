@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Label="NsightTegraProject">
+    <NsightTegraProjectRevisionNumber>11</NsightTegraProjectRevisionNumber>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Tegra-Android">
+      <Configuration>Debug</Configuration>
+      <Platform>Tegra-Android</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Tegra-Android">
+      <Configuration>Release</Configuration>
+      <Platform>Tegra-Android</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Shipping|Tegra-Android">
+      <Configuration>Shipping</Configuration>
+      <Platform>Tegra-Android</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{B51E22F1-0750-446D-88DD-8343CE33015D}</ProjectGuid>
+    <RootNamespace>AndroidViewer</RootNamespace>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Debug|Tegra-Android'">
+    <AndroidTargetAPI>android-19</AndroidTargetAPI>
+    <AndroidBuildSystem>GradleBuild</AndroidBuildSystem>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Release|Tegra-Android'">
+    <AndroidTargetAPI>android-19</AndroidTargetAPI>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration" Condition="'$(Configuration)|$(Platform)'=='Shipping|Tegra-Android'">
+    <AndroidTargetAPI>android-19</AndroidTargetAPI>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros">
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|Tegra-Android'">
+    <FastDeploy>Default</FastDeploy>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Tegra-Android'">
+    <FastDeploy>false</FastDeploy>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Tegra-Android'">
+    <ClCompile>
+      <CppLanguageStandard>gnu++11</CppLanguageStandard>
+      <AdditionalIncludeDirectories>../../../3rdTools/ARToolKit5-5.3.2-Android/include;../../include</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>DEBUG</PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>../../3rdTools/ARToolKit5-5.3.2-Android/android/jni/curl/libs/armeabi-v7a;../../3rdTools/Android/libd/armeabi-v7a;D:\Develop\ARManufacture\Android\libs\armeabi-v7a</AdditionalLibraryDirectories>
+      <AdditionalDependencies>AR;AR2;ARgsub_es2;ARICP;ARosg;ARutil;Eden;KPM;ARMulti;ARvideo;curl;cpufeatures;ConnectionBased;Modelingd</AdditionalDependencies>
+      <AndroidSystemLibs>c;m;log;gcc;GLESv1_CM;z;GLESv2</AndroidSystemLibs>
+    </Link>
+    <AntBuild>
+      <NativeLibDirectories>./libs/armeabi-v7a;%(NativeLibDirectories)</NativeLibDirectories>
+      <NativeLibDependencies>ARWrapperd</NativeLibDependencies>
+    </AntBuild>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Tegra-Android'">
+    <ClCompile>
+      <CppLanguageStandard>gnu++11</CppLanguageStandard>
+      <AdditionalIncludeDirectories>../../3rdTools/ARToolKit5-5.3.2-Android/include;../../include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>../../3rdTools/ARToolKit5-5.3.2-Android/android/jni/curl/libs/armeabi-v7a;../../3rdTools/Android/libd/armeabi-v7a;../../Android/libs/armeabi-v7a</AdditionalLibraryDirectories>
+      <AdditionalDependencies>AR;AR2;ARgsub_es2;ARICP;ARosg;ARutil;Eden;KPM;ARMulti;ARvideo;curl;cpufeatures;ConnectionBase;Modeling</AdditionalDependencies>
+      <AndroidSystemLibs>c;m;log;gcc;GLESv1_CM;z;GLESv2</AndroidSystemLibs>
+    </Link>
+    <AntBuild>
+      <NativeLibDirectories>./libs/armeabi-v7a;%(NativeLibDirectories)</NativeLibDirectories>
+      <NativeLibDependencies>ARWrapper</NativeLibDependencies>
+    </AntBuild>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|Tegra-Android'">
+    <ClCompile>
+      <CppLanguageStandard>gnu++11</CppLanguageStandard>
+      <AdditionalIncludeDirectories>../../3rdTools/ARToolKit5-5.3.2-Android/include</AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>
+      </PreprocessorDefinitions>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>../../3rdTools/ARToolKit5-5.3.2-Android/android/jni/curl/libs/armeabi-v7a;../../3rdTools/ARToolKit5-5.3.2-Android/VisualStudio/vs120-android/libs/armeabi-v7a</AdditionalLibraryDirectories>
+      <AdditionalDependencies>AR;AR2;ARgsub_es2;ARICP;ARosg;ARutil;Eden;KPM;ARMulti;ARvideo;curl;cpufeatures;ConnectionBase;Modeling</AdditionalDependencies>
+      <AndroidSystemLibs>c;m;log;gcc;GLESv1_CM;z;GLESv2</AndroidSystemLibs>
+    </Link>
+    <AntBuild>
+      <NativeLibDirectories>./libs/armeabi-v7a;%(NativeLibDirectories)</NativeLibDirectories>
+      <NativeLibDependencies>ARWrapper</NativeLibDependencies>
+    </AntBuild>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <AndroidBuild Include="AndroidManifest.xml">
+      <SubType>Designer</SubType>
+    </AndroidBuild>
+    <AndroidBuild Include="res\values\strings.xml">
+      <SubType>Designer</SubType>
+    </AndroidBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <JCompile Include="src\cps\manufacture\ARNativeActivity.java" />
+    <JCompile Include="src\cps\manufacture\ARNativeApplication.java" />
+    <JCompile Include="src\cps\manufacture\base\AndroidUtils.java" />
+    <JCompile Include="src\cps\manufacture\base\ARActivity.java" />
+    <JCompile Include="src\cps\manufacture\base\ARToolKit.java" />
+    <JCompile Include="src\cps\manufacture\base\assets\AssetFileTransfer.java" />
+    <JCompile Include="src\cps\manufacture\base\assets\AssetFileTransferException.java" />
+    <JCompile Include="src\cps\manufacture\base\assets\AssetHelper.java" />
+    <JCompile Include="src\cps\manufacture\base\assets\HashComputationException.java" />
+    <JCompile Include="src\cps\manufacture\base\assets\Hasher.java" />
+    <JCompile Include="src\cps\manufacture\base\camera\CameraEventListener.java" />
+    <JCompile Include="src\cps\manufacture\base\camera\CameraPreferencesActivity.java" />
+    <JCompile Include="src\cps\manufacture\base\camera\CameraWrapper.java" />
+    <JCompile Include="src\cps\manufacture\base\camera\CaptureCameraPreview.java" />
+    <JCompile Include="src\cps\manufacture\base\FPSCounter.java" />
+    <JCompile Include="src\cps\manufacture\base\NativeInterface.java" />
+    <JCompile Include="src\cps\manufacture\base\rendering\ARRenderer.java" />
+    <JCompile Include="src\cps\manufacture\base\rendering\Cube.java" />
+    <JCompile Include="src\cps\manufacture\base\rendering\RenderUtils.java" />
+    <JCompile Include="src\cps\manufacture\CameraSurface.java" />
+    <JCompile Include="src\cps\manufacture\GL2SurfaceView.java" />
+    <JCompile Include="src\cps\manufacture\Renderer.java" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="assets\Data\camera_para.dat" />
+    <None Include="assets\Data\hiro.patt" />
+    <None Include="assets\Data\kanji.patt" />
+    <None Include="assets\Data\markers.dat" />
+    <None Include="libs\armeabi-v7a\libARWrapper.so" />
+    <None Include="libs\armeabi-v7a\libARWrapperd.so" />
+    <None Include="res\drawable-hdpi\icon.png" />
+    <None Include="res\drawable-hdpi\settings.png" />
+    <None Include="res\drawable-ldpi\icon.png" />
+    <None Include="res\drawable-ldpi\settings.png" />
+    <None Include="res\drawable-mdpi\icon.png" />
+    <None Include="res\drawable-mdpi\settings.png" />
+    <None Include="res\drawable-xhdpi\icon.png" />
+    <None Include="res\drawable-xhdpi\settings.png" />
+    <None Include="res\layout\main.xml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="res\menu\options.xml" />
+    <None Include="res\xml\preferences.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="jni\ARMarkerSquare.c" />
+    <ClCompile Include="jni\ARNative.cpp" />
+    <ClCompile Include="jni\color_convert_common.c" />
+    <ClCompile Include="jni\glError.cpp" />
+    <ClCompile Include="jni\glesDrawing.cpp" />
+    <ClCompile Include="jni\listenling.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="jni\ARMarkerSquare.h" />
+    <ClInclude Include="jni\color_convert_common.h" />
+    <ClInclude Include="jni\glError.h" />
+    <ClInclude Include="jni\glesDrawing.h" />
+    <ClInclude Include="jni\listenling.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

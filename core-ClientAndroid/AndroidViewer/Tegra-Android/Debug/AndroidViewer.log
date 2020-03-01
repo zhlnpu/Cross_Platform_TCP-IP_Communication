@@ -1,0 +1,40 @@
+﻿生成启动时间为 2016/12/11 19:18:56。
+     1>项目“D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\AndroidViewer.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Android\NVPACK\android-ndk-r12b\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-g++.exe 
+         glesDrawing.cpp
+         listenling.cpp
+         ARNative.cpp
+         D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\jni\glesDrawing.h(3): includes this header: 0,
+         D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\from jni\glesDrawing.cpp(1): 
+     1>D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\jni\listenling.h(3,35): fatal error : Modeling/ModelingData.h: No such file or directory
+          #include "Modeling/ModelingData.h"
+                                            ^
+         compilation terminated.
+         D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\jni\listenling.cpp(1): includes this header: 0:
+     1>D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\jni\listenling.h(3,35): fatal error : Modeling/ModelingData.h: No such file or directory
+          #include "Modeling/ModelingData.h"
+                                            ^
+         compilation terminated.
+         D:\Develop\3rdTools\ARToolKit5-5.3.2-Android\include\AR\matrix.h(41): includes this header: 0,
+                          from ../../../3rdTools/ARToolKit5-5.3.2-Android/include/AR/ar.h:194,
+         D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\from jni\ARNative.cpp(60): 
+         D:\Android\NVPACK\android-ndk-r12b\platforms\android-9\arch-arm\usr\include\math.h(24): 0: warning: "__pure2" redefined
+          #define __pure2
+          ^
+         D:\Android\NVPACK\android-ndk-r12b\platforms\android-9\arch-arm\usr\include\jni.h(27): includes this header: 0,
+         D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\from jni\ARNative.cpp(56): 
+         D:\Android\NVPACK\android-ndk-r12b\platforms\android-9\arch-arm\usr\include\sys\cdefs.h(198): 0: note: this is the location of the previous definition
+          #define __pure2 __attribute__((__const__)) /* Android-added: used by FreeBSD libm */
+          ^
+         D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\jni\glesDrawing.h(3): includes this header: 0,
+         D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\from jni\ARNative.cpp(70): 
+     1>D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\jni\listenling.h(3,35): fatal error : Modeling/ModelingData.h: No such file or directory
+          #include "Modeling/ModelingData.h"
+                                            ^
+         compilation terminated.
+     1>已完成生成项目“D:\Develop\co-design-core\core-ClientAndroid\AndroidViewer\AndroidViewer.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.27

@@ -1,0 +1,27 @@
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\AndroidViewer.ap_ \
+ : C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\drawable-hdpi\icon.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\drawable-hdpi\settings.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\drawable-ldpi\icon.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\drawable-ldpi\settings.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\drawable-mdpi\icon.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\drawable-mdpi\settings.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\drawable-xhdpi\icon.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\drawable-xhdpi\settings.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\layout\main.xml \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\menu\options.xml \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\values\strings.xml \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res\xml\preferences.xml \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\res\drawable-hdpi\icon.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\res\drawable-hdpi\settings.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\res\drawable-ldpi\icon.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\res\drawable-ldpi\settings.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\res\drawable-mdpi\icon.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\res\drawable-mdpi\settings.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\res\drawable-xhdpi\icon.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\res\drawable-xhdpi\settings.png \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\assets\Data \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\assets\Data\camera_para.dat \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\assets\Data\hiro.patt \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\assets\Data\kanji.patt \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\assets\Data\markers.dat \
+C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\AndroidManifest.xml \

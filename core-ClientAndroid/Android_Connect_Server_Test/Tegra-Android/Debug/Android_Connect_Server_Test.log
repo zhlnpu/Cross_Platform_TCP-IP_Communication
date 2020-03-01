@@ -1,0 +1,4 @@
+﻿  Stripping D:\Develop\emotional feedback\co-design-core\core-ClientAndroid\Tegra-Android\Debug\libAndroid_Connect_Server_Test.so to D:\Develop\emotional feedback\co-design-core\core-ClientAndroid\Tegra-Android\Debug\stripped_libAndroid_Connect_Server_Test.so
+  Adding debuglink D:\Develop\emotional feedback\co-design-core\core-ClientAndroid\Tegra-Android\Debug\libAndroid_Connect_Server_Test.so to D:\Develop\emotional feedback\co-design-core\core-ClientAndroid\Tegra-Android\Debug\stripped_libAndroid_Connect_Server_Test.so
+  Skipping Ant step - dependencies are up to date.
+  To disable this feature, set Ant Build -> Skip Ant Step to No.

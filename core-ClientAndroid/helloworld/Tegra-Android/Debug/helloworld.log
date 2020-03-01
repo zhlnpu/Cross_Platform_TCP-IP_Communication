@@ -1,0 +1,4 @@
+﻿  Stripping D:\Develop\emotional feedback\co-design-core\Tegra-Android\Debug\libhelloworld.so to D:\Develop\emotional feedback\co-design-core\Tegra-Android\Debug\stripped_libhelloworld.so
+  Adding debuglink D:\Develop\emotional feedback\co-design-core\Tegra-Android\Debug\libhelloworld.so to D:\Develop\emotional feedback\co-design-core\Tegra-Android\Debug\stripped_libhelloworld.so
+  Skipping Ant step - dependencies are up to date.
+  To disable this feature, set Ant Build -> Skip Ant Step to No.

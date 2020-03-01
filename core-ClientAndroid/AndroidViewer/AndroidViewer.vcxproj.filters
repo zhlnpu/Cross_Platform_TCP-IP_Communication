@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="res">
+      <UniqueIdentifier>c40c5788-c98d-42e1-8ac4-c0e66f00feda</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\values">
+      <UniqueIdentifier>b469037d-953f-4885-9da5-d3028367be93</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{f1602893-91eb-4159-b4d9-7df8cd856e3d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\cps">
+      <UniqueIdentifier>{11184d37-4e2d-4c95-b8aa-eac1f8c2793b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\cps\manufacture">
+      <UniqueIdentifier>{6237d8f5-feb8-4fa0-82a4-ad006c30fbb9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jni">
+      <UniqueIdentifier>{73ba7c46-d10f-4701-9a4b-b58a993831c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\menu">
+      <UniqueIdentifier>{82f9e20d-6c46-47d2-ace6-38402254a866}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\xml">
+      <UniqueIdentifier>{0df2bb21-5296-4428-9c61-9de309f46117}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\cps\manufacture\base">
+      <UniqueIdentifier>{d82df875-429d-4684-9556-48f0a83321c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\cps\manufacture\base\camera">
+      <UniqueIdentifier>{95299fea-1eba-44b2-b404-a2f2c3616af9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\cps\manufacture\base\assets">
+      <UniqueIdentifier>{015d0f56-df69-4a00-9d3f-74941c1f5e85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\cps\manufacture\base\rendering">
+      <UniqueIdentifier>{74940615-204a-4f6c-91a9-4c8fea989700}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\drawable-hdpi">
+      <UniqueIdentifier>{3232e0aa-b424-40ec-b55e-00f88a3071da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\drawable-mdpi">
+      <UniqueIdentifier>{5e6da837-3ddc-45f2-947b-f67b80c718db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\drawable-xhdpi">
+      <UniqueIdentifier>{709608a7-7be2-48a1-83ad-c71a58ece6c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\layout">
+      <UniqueIdentifier>{ad565b7c-b535-4df8-9cc9-ec98bac9a618}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs">
+      <UniqueIdentifier>{206a8dba-7d2c-487d-b035-1055776794df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="libs\armeabi-v7a">
+      <UniqueIdentifier>{473bbb18-56d6-489a-bbad-95a38858e817}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\drawable-ldpi">
+      <UniqueIdentifier>{de84a8fc-6515-4110-8c66-4870e623af1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets">
+      <UniqueIdentifier>{302d8978-d255-4320-abf4-43f173e90268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="assets\Data">
+      <UniqueIdentifier>{877216ed-2911-486e-bf2d-1141e8b26a95}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidBuild Include="AndroidManifest.xml" />
+    <AndroidBuild Include="res\values\strings.xml">
+      <Filter>res\values</Filter>
+    </AndroidBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <JCompile Include="src\cps\manufacture\base\assets\AssetFileTransfer.java">
+      <Filter>src\cps\manufacture\base\assets</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\assets\AssetFileTransferException.java">
+      <Filter>src\cps\manufacture\base\assets</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\assets\AssetHelper.java">
+      <Filter>src\cps\manufacture\base\assets</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\assets\HashComputationException.java">
+      <Filter>src\cps\manufacture\base\assets</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\assets\Hasher.java">
+      <Filter>src\cps\manufacture\base\assets</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\camera\CameraEventListener.java">
+      <Filter>src\cps\manufacture\base\camera</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\camera\CameraPreferencesActivity.java">
+      <Filter>src\cps\manufacture\base\camera</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\camera\CameraWrapper.java">
+      <Filter>src\cps\manufacture\base\camera</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\camera\CaptureCameraPreview.java">
+      <Filter>src\cps\manufacture\base\camera</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\rendering\ARRenderer.java">
+      <Filter>src\cps\manufacture\base\rendering</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\rendering\Cube.java">
+      <Filter>src\cps\manufacture\base\rendering</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\rendering\RenderUtils.java">
+      <Filter>src\cps\manufacture\base\rendering</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\AndroidUtils.java">
+      <Filter>src\cps\manufacture\base</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\ARActivity.java">
+      <Filter>src\cps\manufacture\base</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\ARToolKit.java">
+      <Filter>src\cps\manufacture\base</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\FPSCounter.java">
+      <Filter>src\cps\manufacture\base</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\base\NativeInterface.java">
+      <Filter>src\cps\manufacture\base</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\ARNativeActivity.java">
+      <Filter>src\cps\manufacture</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\ARNativeApplication.java">
+      <Filter>src\cps\manufacture</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\CameraSurface.java">
+      <Filter>src\cps\manufacture</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\GL2SurfaceView.java">
+      <Filter>src\cps\manufacture</Filter>
+    </JCompile>
+    <JCompile Include="src\cps\manufacture\Renderer.java">
+      <Filter>src\cps\manufacture</Filter>
+    </JCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\layout\main.xml">
+      <Filter>res\layout</Filter>
+    </None>
+    <None Include="libs\armeabi-v7a\libARWrapper.so">
+      <Filter>libs\armeabi-v7a</Filter>
+    </None>
+    <None Include="libs\armeabi-v7a\libARWrapperd.so">
+      <Filter>libs\armeabi-v7a</Filter>
+    </None>
+    <None Include="assets\Data\camera_para.dat">
+      <Filter>assets\Data</Filter>
+    </None>
+    <None Include="assets\Data\hiro.patt">
+      <Filter>assets\Data</Filter>
+    </None>
+    <None Include="assets\Data\markers.dat">
+      <Filter>assets\Data</Filter>
+    </None>
+    <None Include="assets\Data\kanji.patt">
+      <Filter>assets\Data</Filter>
+    </None>
+    <None Include="res\xml\preferences.xml">
+      <Filter>res\xml</Filter>
+    </None>
+    <None Include="res\menu\options.xml">
+      <Filter>res\menu</Filter>
+    </None>
+    <None Include="res\drawable-hdpi\icon.png">
+      <Filter>res\drawable-hdpi</Filter>
+    </None>
+    <None Include="res\drawable-hdpi\settings.png">
+      <Filter>res\drawable-hdpi</Filter>
+    </None>
+    <None Include="res\drawable-ldpi\icon.png">
+      <Filter>res\drawable-ldpi</Filter>
+    </None>
+    <None Include="res\drawable-ldpi\settings.png">
+      <Filter>res\drawable-ldpi</Filter>
+    </None>
+    <None Include="res\drawable-mdpi\icon.png">
+      <Filter>res\drawable-mdpi</Filter>
+    </None>
+    <None Include="res\drawable-mdpi\settings.png">
+      <Filter>res\drawable-mdpi</Filter>
+    </None>
+    <None Include="res\drawable-xhdpi\icon.png">
+      <Filter>res\drawable-xhdpi</Filter>
+    </None>
+    <None Include="res\drawable-xhdpi\settings.png">
+      <Filter>res\drawable-xhdpi</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="jni\ARMarkerSquare.c">
+      <Filter>jni</Filter>
+    </ClCompile>
+    <ClCompile Include="jni\color_convert_common.c">
+      <Filter>jni</Filter>
+    </ClCompile>
+    <ClCompile Include="jni\glError.cpp">
+      <Filter>jni</Filter>
+    </ClCompile>
+    <ClCompile Include="jni\ARNative.cpp">
+      <Filter>jni</Filter>
+    </ClCompile>
+    <ClCompile Include="jni\glesDrawing.cpp">
+      <Filter>jni</Filter>
+    </ClCompile>
+    <ClCompile Include="jni\listenling.cpp">
+      <Filter>jni</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="jni\ARMarkerSquare.h">
+      <Filter>jni</Filter>
+    </ClInclude>
+    <ClInclude Include="jni\color_convert_common.h">
+      <Filter>jni</Filter>
+    </ClInclude>
+    <ClInclude Include="jni\glError.h">
+      <Filter>jni</Filter>
+    </ClInclude>
+    <ClInclude Include="jni\glesDrawing.h">
+      <Filter>jni</Filter>
+    </ClInclude>
+    <ClInclude Include="jni\listenling.h">
+      <Filter>jni</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,124 @@
+﻿生成启动时间为 2016/7/29 12:48:09。
+     1>项目“C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\AndroidViewer.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\NVPACK\android-ndk-r10e\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-g++.exe Tegra-Android/Release/ARMarkerSquare.o Tegra-Android/Release/ARNative.o Tegra-Android/Release/color_convert_common.o Tegra-Android/Release/glError.o Tegra-Android/Release/glesDrawing.o Tegra-Android/Release/listenling.o  -Wl,-soname,libAndroidViewer.so -shared --sysroot=C:/NVPACK/android-ndk-r10e/platforms/android-9/arch-arm -Wl,-rpath-link=C:/NVPACK/android-ndk-r10e/platforms/android-9/arch-arm/usr/lib -L"../../3rdTools/ARToolKit5-5.3.2-Android/android/jni/curl/libs/armeabi-v7a" -L"../../3rdTools/Android/libd/armeabi-v7a" -L"../../Android/libs/armeabi-v7a" "-lAR" "-lAR2" "-lARgsub_es2" "-lARICP" "-lARosg" "-lARutil" "-lEden" "-lKPM" "-lARMulti" "-lARvideo" "-lcurl" "-lcpufeatures" "-lConnectionBase" "-lModeling" -fuse-ld=bfd -Wl,--no-undefined -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -L"C:/NVPACK/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/lib/gcc/arm-linux-androideabi/4.9/armv7-a" -L"C:/NVPACK/android-ndk-r10e/platforms/android-9/arch-arm/usr/lib" -L"C:/NVPACK/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a" -L"C:/NVPACK/android-ndk-r10e/toolchains/arm-linux-androideabi-4.9/prebuilt/windows-x86_64/lib/gcc/arm-linux-androideabi/4.9/armv7-a" "C:/NVPACK/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/libgnustl_static.a" -lc -lm -llog -lgcc -lGLESv1_CM -lz -lGLESv2 -oC:/Users/b_xl/Documents/Devlops/ARManufacture/AndroidViewer/Tegra-Android/Release/libAndroidViewer.so 
+         AndroidViewer.vcxproj -> C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\Tegra-Android\Release\libAndroidViewer.so
+       StripLibrary:
+         C:\NVPACK\android-ndk-r10e\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-strip.exe --strip-unneeded -o"C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\Tegra-Android\Release\stripped_libAndroidViewer.so" "C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\Tegra-Android\Release\libAndroidViewer.so"
+         Stripping C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\Tegra-Android\Release\libAndroidViewer.so to C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\Tegra-Android\Release\stripped_libAndroidViewer.so
+         C:\NVPACK\android-ndk-r10e\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin\arm-linux-androideabi-objcopy.exe --add-gnu-debuglink="C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\Tegra-Android\Release\libAndroidViewer.so" "C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\Tegra-Android\Release\stripped_libAndroidViewer.so"
+         Adding debuglink C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\Tegra-Android\Release\libAndroidViewer.so to C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\Tegra-Android\Release\stripped_libAndroidViewer.so
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\Tegra-Android\Nvidia.AndroidBuild.targets(253,5): warning MSB8015: Forcing a rebuild of all source files due to the contents of "C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\ant.command.1.tlog" being invalid.
+         C:\NVPACK\apache-ant-1.8.2\bin\ant.bat release -f C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\nsight_tegra_build.xml -listener org.apache.tools.ant.XmlLogger  
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\Tegra-Android\Nvidia.AndroidBuild.targets(253,5): warning : Signing credentials were not specified, using debug signing.
+         Building using the JDK located here: 'C:\NVPACK\jdk1.7.0_71 (Native64Bit)'...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\Tegra-Android\Nvidia.AndroidBuild.targets(253,5): warning : When using a 64-bit Java runtime incremental builds may not function correctly.
+         Executing "C:\NVPACK\apache-ant-1.8.2\bin\ant.bat release -f C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\nsight_tegra_build.xml -listener org.apache.tools.ant.XmlLogger "
+         Buildfile: C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\nsight_tegra_build.xml
+         
+         -set-mode-check:
+         
+         -set-release-mode:
+         
+         -release-obfuscation-check:
+              [echo] proguard.config is ${proguard.config}
+         
+         -pre-build:
+         
+         -check-env:
+          [checkenv] Android SDK Tools Revision 24.4.1
+          [checkenv] Installed at C:\NVPACK\android-sdk-windows
+         
+         -setup:
+              [echo] Project Name: AndroidViewer
+           [gettype] Project Type: Application
+         
+         -build-setup:
+         [getbuildtools] Using latest Build Tools: 23.0.2
+              [echo] Resolving Build Target for AndroidViewer...
+         [gettarget] Project Target:   Android 4.4.2
+         [gettarget] API level:        19
+              [echo] ----------
+              [echo] Creating output directories if needed...
+              [echo] ----------
+              [echo] Resolving Dependencies for AndroidViewer...
+         [dependency] Library dependencies:
+         [dependency] No Libraries
+         [dependency] 
+         [dependency] ------------------
+              [echo] ----------
+              [echo] Building Libraries with 'release'...
+            [subant] No sub-builds to iterate on
+         
+         -code-gen:
+         [mergemanifest] Found Deleted Target File
+         [mergemanifest] Merging AndroidManifest files into one.
+         [mergemanifest] Manifest merger disabled. Using project manifest only.
+              [echo] Handling aidl files...
+              [aidl] No AIDL files to compile.
+              [echo] ----------
+              [echo] Handling RenderScript files...
+              [echo] ----------
+              [echo] Handling Resources...
+              [aapt] Found Deleted Target File
+              [aapt] Generating resource IDs...
+              [echo] ----------
+              [echo] Handling BuildConfig class...
+         [buildconfig] No need to generate new BuildConfig.
+         
+         -pre-compile:
+         
+         -compile:
+             [javac] Compiling 1 source file to C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\classes
+         
+         -post-compile:
+         
+         -obfuscate:
+         
+         -dex:
+               [dex] input: C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\classes
+               [dex] Found Deleted Target File
+               [dex] Converting compiled files and external libraries into C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\classes.dex...
+                [dx] Picked up _JAVA_OPTIONS:  -Xms256m -Xmx1024m
+         
+         -crunch:
+            [crunch] Crunching PNG Files in source dir: C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\res
+            [crunch] To destination dir: C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\res
+            [crunch] Crunched 0 PNG files to update cache
+         
+         -package-resources:
+              [aapt] Found Deleted Target File
+              [aapt] Creating full resource package...
+         
+         -package:
+         [apkbuilder] Found Deleted Target File
+         [apkbuilder] Creating AndroidViewer-release-unsigned.apk for release...
+         
+         -post-package:
+         
+         -release-prompt-for-password:
+         
+         -release-nosign:
+         
+         -release-sign:
+              [echo] Signing final apk...
+          [zipalign] Running zip align on final apk...
+              [echo] Release Package: C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\AndroidViewer-release.apk
+         [propertyfile] Updating property file: C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\build.prop
+         [propertyfile] Updating property file: C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\build.prop
+         [propertyfile] Updating property file: C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\build.prop
+         [propertyfile] Updating property file: C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\bin\build.prop
+         
+         -post-build:
+         
+         release:
+         
+         BUILD SUCCESSFUL
+         Total time: 8 seconds
+         Picked up _JAVA_OPTIONS:  -Xms256m -Xmx1024m
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Platforms\Tegra-Android\Nvidia.AndroidBuild.targets(253,5): warning MSB8015: Forcing a rebuild of all source files due to the contents of "C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\Tegra-Android\Release\ant.command.1.tlog" being invalid.
+     1>已完成生成项目“C:\Users\b_xl\Documents\Devlops\ARManufacture\AndroidViewer\AndroidViewer\AndroidViewer.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.26

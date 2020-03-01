@@ -1,0 +1,45 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 610 (ID=0x104a)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+Cluster Renderer Log : ARG list
+emotionalfeedback.exe
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Develop\emotional feedback\co-design-core\core-ClientUnity\emotionalfeedback_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Develop\emotional feedback\co-design-core\core-ClientUnity\emotionalfeedback_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Develop\emotional feedback\co-design-core\core-ClientUnity\emotionalfeedback_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Develop\emotional feedback\co-design-core\core-ClientUnity\emotionalfeedback_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Develop\emotional feedback\co-design-core\core-ClientUnity\emotionalfeedback_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Develop\emotional feedback\co-design-core\core-ClientUnity\emotionalfeedback_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Develop\emotional feedback\co-design-core\core-ClientUnity\emotionalfeedback_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Develop\emotional feedback\co-design-core\core-ClientUnity\emotionalfeedback_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.068 seconds
+Platform assembly: D:\Develop\emotional feedback\co-design-core\core-ClientUnity\emotionalfeedback_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Develop\emotional feedback\co-design-core\core-ClientUnity\emotionalfeedback_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Plane') is missing!
+ 
+(Filename:  Line: 1655)
+
+UnloadTime: 0.863967 ms
+Attempting to connect..
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Socket error:System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。
+
+  at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP, Boolean requireSocketPolicy) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.Socket.Connect (System.Net.EndPoint remoteEP) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.TcpClient.Connect (System.Net.IPEndPoint remote_end_point) [0x00000] in <filename unknown>:0 
+  at System.Net.Sockets.TcpClient.Connect (System.Net.IPAddress[] ipAddresses, Int32 port) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 18fc -> priority: 1 

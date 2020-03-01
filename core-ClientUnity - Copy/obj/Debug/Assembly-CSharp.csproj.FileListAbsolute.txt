@@ -1,0 +1,128 @@
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\UnityEditor.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\UnityEngine.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\Mono.Cecil.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\Unity.DataContract.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\UnityEngine.xml
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\UnityEditor.xml
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Develop\unity C#\SocketConnectionZhl\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Develop\unity C#\SocketConnectionZhl\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Develop\unity C#\SocketConnectionZhl\obj\Debug\Assembly-CSharp.dll
+D:\Develop\unity C#\SocketConnectionZhl\obj\Debug\Assembly-CSharp.pdb
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\UnityEditor.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\UnityEngine.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\Mono.Cecil.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\Unity.DataContract.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\UnityEngine.xml
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\UnityEditor.xml
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Develop\physensing\communication\core-ClientuUity\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Develop\physensing\communication\core-ClientuUity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Develop\physensing\communication\core-ClientuUity\obj\Debug\Assembly-CSharp.dll
+D:\Develop\physensing\communication\core-ClientuUity\obj\Debug\Assembly-CSharp.pdb
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\UnityEditor.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\UnityEngine.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\Mono.Cecil.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\Unity.DataContract.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\UnityEngine.xml
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\UnityEditor.xml
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Develop\physensing\communication\coreClientuUity\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Develop\physensing\communication\coreClientuUity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Develop\physensing\communication\coreClientuUity\obj\Debug\Assembly-CSharp.dll
+D:\Develop\physensing\communication\coreClientuUity\obj\Debug\Assembly-CSharp.pdb
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEditor.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Mono.Cecil.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Unity.DataContract.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.xml
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEditor.xml
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\obj\Debug\Assembly-CSharp.dll
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\obj\Debug\Assembly-CSharp.pdb
+D:\Develop\emotional feedback\co-design-core\core-ClientUnity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEditor.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Mono.Cecil.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Unity.DataContract.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.xml
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEditor.xml
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\obj\Debug\Assembly-CSharp.dll
+E:\Develop\emotional feedback\co-design-core\core-ClientUnity\obj\Debug\Assembly-CSharp.pdb
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\obj\Debug\Assembly-CSharp.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\obj\Debug\Assembly-CSharp.pdb
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\UnityEditor.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\UnityEngine.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\Mono.Cecil.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\Unity.DataContract.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\Unity.UNetWeaver.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\UnityEngine.xml
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\UnityEditor.xml
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Develop\emotional feedback\co-design-core-add-hololens\core-ClientUnity\obj\Debug\Assembly-CSharp.csproj.CopyComplete

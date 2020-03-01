@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:17
+-keep class cps.manufacture.ARNativeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class cps.manufacture.ARNativeApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class cps.manufacture.base.camera.CameraPreferencesActivity { <init>(...); }
+

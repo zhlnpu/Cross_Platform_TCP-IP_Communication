@@ -1,0 +1,6 @@
+﻿  pthread.c
+d:\armanufacture\3rdtools\pthreads-2.9.1\src\pthread_mutex_consistent.c : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1193,5): warning MSB8012: TargetPath(D:\ARManufacture\3rdTools\pthreads-2.9.1\src\.\.\pthread.dll) does not match the Linker's OutputFile property value (D:\ARManufacture\3rdTools\pthreads-2.9.1\src\pthreadVC2.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(1195,5): warning MSB8012: TargetName(pthread) does not match the Linker's OutputFile property value (pthreadVC2). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library .\.\pthreadVC2.lib and object .\.\pthreadVC2.exp
+  pthread.vcxproj -> D:\ARManufacture\3rdTools\pthreads-2.9.1\src\.\.\pthread.dll

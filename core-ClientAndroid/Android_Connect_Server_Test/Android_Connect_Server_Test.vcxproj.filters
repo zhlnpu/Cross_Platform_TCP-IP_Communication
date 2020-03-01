@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="res">
+      <UniqueIdentifier>94d66f49-9891-4d19-9e1b-b802646d11f0</UniqueIdentifier>
+    </Filter>
+    <Filter Include="res\values">
+      <UniqueIdentifier>151a022d-74b6-4749-9c86-c7a89bd5af7e</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{2c8ff8e8-69cb-4b5c-824e-cbdbd579dc2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\com">
+      <UniqueIdentifier>{09d1330a-9d5a-41a2-838f-68b4d21b7745}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\com\cpilab">
+      <UniqueIdentifier>{17bfb495-9a5a-4503-b8f4-3386023444f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\com\cpilab\cs">
+      <UniqueIdentifier>{c2f58b07-5fc9-4d36-8e51-dd2e3158faa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\com\cpilab\cs\androidclient">
+      <UniqueIdentifier>{131d609b-e235-40c9-bb97-f149297a0635}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="jni">
+      <UniqueIdentifier>{bc3802ea-56ed-4a8d-95e0-e3608b79e83e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidBuild Include="AndroidManifest.xml" />
+    <AndroidBuild Include="res\values\strings.xml">
+      <Filter>res\values</Filter>
+    </AndroidBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="jni\Androidclient.cpp">
+      <Filter>jni</Filter>
+    </ClCompile>
+    <ClCompile Include="jni\Listeningandroidclient.cpp">
+      <Filter>jni</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <JCompile Include="src\com\cpilab\cs\androidclient\Androidclient.java">
+      <Filter>src\com\cpilab\cs\androidclient</Filter>
+    </JCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="jni\Listeningandroidclient.h">
+      <Filter>jni</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
