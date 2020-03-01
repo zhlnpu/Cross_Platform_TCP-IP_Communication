@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AndroidViewer", "AndroidViewer\AndroidViewer.vcxproj", "{B51E22F1-0750-446D-88DD-8343CE33015D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Android_Connect_Server_Test", "Android_Connect_Server_Test\Android_Connect_Server_Test.vcxproj", "{AE921F2C-B648-419B-BD9E-56E82F6957A5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "helloworld", "helloworld\helloworld.vcxproj", "{916F6AFE-F1E5-4487-B655-92DE43C261C0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConnectionBaseAndroid", "ConnectionBaseAndroid\ConnectionBaseAndroid.vcxproj", "{F37DBCE0-CEEB-4575-A06A-8431F4EC6A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Tegra-Android = Debug|Tegra-Android
+		Release|Tegra-Android = Release|Tegra-Android
+		Shipping|Tegra-Android = Shipping|Tegra-Android
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B51E22F1-0750-446D-88DD-8343CE33015D}.Debug|Tegra-Android.ActiveCfg = Debug|Tegra-Android
+		{B51E22F1-0750-446D-88DD-8343CE33015D}.Debug|Tegra-Android.Build.0 = Debug|Tegra-Android
+		{B51E22F1-0750-446D-88DD-8343CE33015D}.Release|Tegra-Android.ActiveCfg = Release|Tegra-Android
+		{B51E22F1-0750-446D-88DD-8343CE33015D}.Release|Tegra-Android.Build.0 = Release|Tegra-Android
+		{B51E22F1-0750-446D-88DD-8343CE33015D}.Shipping|Tegra-Android.ActiveCfg = Shipping|Tegra-Android
+		{B51E22F1-0750-446D-88DD-8343CE33015D}.Shipping|Tegra-Android.Build.0 = Shipping|Tegra-Android
+		{AE921F2C-B648-419B-BD9E-56E82F6957A5}.Debug|Tegra-Android.ActiveCfg = Debug|Tegra-Android
+		{AE921F2C-B648-419B-BD9E-56E82F6957A5}.Debug|Tegra-Android.Build.0 = Debug|Tegra-Android
+		{AE921F2C-B648-419B-BD9E-56E82F6957A5}.Release|Tegra-Android.ActiveCfg = Release|Tegra-Android
+		{AE921F2C-B648-419B-BD9E-56E82F6957A5}.Release|Tegra-Android.Build.0 = Release|Tegra-Android
+		{AE921F2C-B648-419B-BD9E-56E82F6957A5}.Shipping|Tegra-Android.ActiveCfg = Shipping|Tegra-Android
+		{AE921F2C-B648-419B-BD9E-56E82F6957A5}.Shipping|Tegra-Android.Build.0 = Shipping|Tegra-Android
+		{916F6AFE-F1E5-4487-B655-92DE43C261C0}.Debug|Tegra-Android.ActiveCfg = Debug|Tegra-Android
+		{916F6AFE-F1E5-4487-B655-92DE43C261C0}.Debug|Tegra-Android.Build.0 = Debug|Tegra-Android
+		{916F6AFE-F1E5-4487-B655-92DE43C261C0}.Release|Tegra-Android.ActiveCfg = Release|Tegra-Android
+		{916F6AFE-F1E5-4487-B655-92DE43C261C0}.Release|Tegra-Android.Build.0 = Release|Tegra-Android
+		{916F6AFE-F1E5-4487-B655-92DE43C261C0}.Shipping|Tegra-Android.ActiveCfg = Shipping|Tegra-Android
+		{916F6AFE-F1E5-4487-B655-92DE43C261C0}.Shipping|Tegra-Android.Build.0 = Shipping|Tegra-Android
+		{F37DBCE0-CEEB-4575-A06A-8431F4EC6A22}.Debug|Tegra-Android.ActiveCfg = Debug|Tegra-Android
+		{F37DBCE0-CEEB-4575-A06A-8431F4EC6A22}.Debug|Tegra-Android.Build.0 = Debug|Tegra-Android
+		{F37DBCE0-CEEB-4575-A06A-8431F4EC6A22}.Release|Tegra-Android.ActiveCfg = Release|Tegra-Android
+		{F37DBCE0-CEEB-4575-A06A-8431F4EC6A22}.Release|Tegra-Android.Build.0 = Release|Tegra-Android
+		{F37DBCE0-CEEB-4575-A06A-8431F4EC6A22}.Shipping|Tegra-Android.ActiveCfg = Shipping|Tegra-Android
+		{F37DBCE0-CEEB-4575-A06A-8431F4EC6A22}.Shipping|Tegra-Android.Build.0 = Shipping|Tegra-Android
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

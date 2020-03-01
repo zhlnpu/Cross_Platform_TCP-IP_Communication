@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "core-ServerPC", "core-ServerPC\core-ServerPC.vcxproj", "{F3CC16FC-A1B9-4DF5-858A-FE7E3E58E7F6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8F6ACE4B-0463-4706-BDBE-7C74292135F3} = {8F6ACE4B-0463-4706-BDBE-7C74292135F3}
+		{648F5BCB-0E19-4FD3-8804-6C83C56AB048} = {648F5BCB-0E19-4FD3-8804-6C83C56AB048}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConnectionBase", "ConnectionBase\ConnectionBase.vcxproj", "{8F6ACE4B-0463-4706-BDBE-7C74292135F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DataBase", "DataBase\DataBase.vcxproj", "{648F5BCB-0E19-4FD3-8804-6C83C56AB048}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3CC16FC-A1B9-4DF5-858A-FE7E3E58E7F6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F3CC16FC-A1B9-4DF5-858A-FE7E3E58E7F6}.Debug|Win32.Build.0 = Debug|Win32
+		{F3CC16FC-A1B9-4DF5-858A-FE7E3E58E7F6}.Release|Win32.ActiveCfg = Release|Win32
+		{F3CC16FC-A1B9-4DF5-858A-FE7E3E58E7F6}.Release|Win32.Build.0 = Release|Win32
+		{8F6ACE4B-0463-4706-BDBE-7C74292135F3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8F6ACE4B-0463-4706-BDBE-7C74292135F3}.Debug|Win32.Build.0 = Debug|Win32
+		{8F6ACE4B-0463-4706-BDBE-7C74292135F3}.Release|Win32.ActiveCfg = Release|Win32
+		{8F6ACE4B-0463-4706-BDBE-7C74292135F3}.Release|Win32.Build.0 = Release|Win32
+		{648F5BCB-0E19-4FD3-8804-6C83C56AB048}.Debug|Win32.ActiveCfg = Debug|Win32
+		{648F5BCB-0E19-4FD3-8804-6C83C56AB048}.Debug|Win32.Build.0 = Debug|Win32
+		{648F5BCB-0E19-4FD3-8804-6C83C56AB048}.Release|Win32.ActiveCfg = Release|Win32
+		{648F5BCB-0E19-4FD3-8804-6C83C56AB048}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal
