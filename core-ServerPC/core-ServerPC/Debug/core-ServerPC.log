@@ -1,0 +1,18 @@
+﻿Build started 2/12/2020 2:23:07 PM.
+     1>Project "E:\Develop\co-design-core-add-hololens\core-ServerPC\core-ServerPC\core-ServerPC.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../include /I"../../pthreads-2.9.1\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ServerManager.cpp "Socket-server.cpp"
+         ServerManager.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         Socket-server.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Develop\co-design-core-add-hololens\core-ServerPC\..\x86\Debug\core-ServerPC.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Develop\co-design-core-add-hololens\core-ServerPC\Debug\\" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\Develop\co-design-core-add-hololens\core-ServerPC\..\x86\Debug\core-ServerPC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Develop\co-design-core-add-hololens\core-ServerPC\..\x86\Debug\core-ServerPC.lib" /MACHINE:X86 Debug\ServerManager.obj
+         "Debug\Socket-server.obj"
+         core-ServerPC.vcxproj -> E:\Develop\co-design-core-add-hololens\core-ServerPC\..\x86\Debug\core-ServerPC.exe
+     1>Done Building Project "E:\Develop\co-design-core-add-hololens\core-ServerPC\core-ServerPC\core-ServerPC.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.76

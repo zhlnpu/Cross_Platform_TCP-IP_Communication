@@ -1,0 +1,6 @@
+﻿  ModelingManager.cpp
+d:\develop\emotional feedback\co-design-core\core-serverpc\database\modelingmanager.cpp(290): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  ToolBase.cpp
+  DataBase.vcxproj -> D:\Develop\emotional feedback\co-design-core\core-ServerPC\..\x86\Debug\DataBase.lib
