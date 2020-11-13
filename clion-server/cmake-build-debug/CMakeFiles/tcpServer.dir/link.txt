@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/tcpServer.dir/main.cpp.o  -o tcpServer  -lpthread 
