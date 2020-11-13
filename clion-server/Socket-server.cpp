@@ -226,6 +226,9 @@ bool InitServerSocket(SOCKET& ServerSocket)
 	hints.ai_protocol = IPPROTO_TCP;		//TCP protocol
 	hints.ai_flags = AI_PASSIVE;			//socket addr is used for listening bind
 
+
+
+
 	iResult = getaddrinfo(NULL, DEFAULT_PORT, &hints, &result);							// 2.1 Resolve the server address and port
 	if (iResult != 0) {
 		printf("getaddrinfo failed with error: %d\n", iResult);

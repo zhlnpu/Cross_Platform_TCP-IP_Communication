@@ -30,65 +30,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16c3157b-0d46-415d-b503-f9d57d5a350e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../clion/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/.idea/clion.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/Input.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/ServerManager.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/ServerManager.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/Socket-server.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/3.17.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/3.17.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/3.17.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/3.17.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/Progress/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/Progress/2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/tcpServer.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/tcpServer.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/tcpServer.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/tcpServer.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/tcpServer.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/tcpServer.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/tcpServer.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/tcpServer.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/tcpServer.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/tcpServer.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/clion" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/clion.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/tcpServer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/tcpServer.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clion-client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clion-client/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket-server.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Socket-server.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tcpServer" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tcpServer" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,11 +62,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="tcpServer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tcpServer" TARGET_NAME="tcpServer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tcpServer" RUN_TARGET_NAME="tcpServer">
@@ -160,25 +109,70 @@
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1605178830188" />
-    <state width="871" height="277" key="GridCell.Tab.0.bottom" timestamp="1605230521279">
+    <state width="903" height="277" key="GridCell.Tab.0.bottom" timestamp="1605242725114">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1872" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1605172983362" />
-    <state width="871" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1605230521279" />
-    <state width="871" height="277" key="GridCell.Tab.0.center" timestamp="1605230521278">
+    <state width="903" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1605242725114" />
+    <state width="903" height="277" key="GridCell.Tab.0.center" timestamp="1605242725112">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1872" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1605172983362" />
-    <state width="871" height="277" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1605230521278" />
-    <state width="871" height="277" key="GridCell.Tab.0.left" timestamp="1605230521277">
+    <state width="903" height="277" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1605242725112" />
+    <state width="903" height="277" key="GridCell.Tab.0.left" timestamp="1605242725111">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1872" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1605172983362" />
-    <state width="871" height="277" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1605230521277" />
-    <state width="871" height="277" key="GridCell.Tab.0.right" timestamp="1605230521278">
+    <state width="903" height="277" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1605242725111" />
+    <state width="903" height="277" key="GridCell.Tab.0.right" timestamp="1605242725113">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1872" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1605172983362" />
-    <state width="871" height="277" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1605230521278" />
+    <state width="903" height="277" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1605242725113" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1605242543511">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1605242543511" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1605242543510">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1605242543510" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1605242543510">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1605242543510" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1605242543511">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1605242543511" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1605238918745">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1605238918745" />
+    <state x="657" y="253" key="run.anything.popup" timestamp="1605241857040">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="657" y="253" key="run.anything.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1605241857040" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>216</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>247</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>168</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
