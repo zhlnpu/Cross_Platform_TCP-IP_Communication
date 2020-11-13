@@ -12,12 +12,12 @@
 
 
 
-/clion-client/cmake-build-debug
-/clion-client/.idea
+/clion-client/cmake-build-debug/
+/clion-client/.idea/
 
-/clion-server/cmake-build-debug
+/clion-server/cmake-build-debug/
 
-/clion-server/.idea
+/clion-server/.idea/
 
 
 # Never ignore Asset meta data
