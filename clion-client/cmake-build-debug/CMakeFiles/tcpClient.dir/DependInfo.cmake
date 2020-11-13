@@ -4,6 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/li/dev/co-design-core-add-hololens/clion-client/ClientApp.cpp" "/home/li/dev/co-design-core-add-hololens/clion-client/cmake-build-debug/CMakeFiles/tcpClient.dir/ClientApp.cpp.o"
+  "/home/li/dev/co-design-core-add-hololens/clion-client/ServerConnection.cpp" "/home/li/dev/co-design-core-add-hololens/clion-client/cmake-build-debug/CMakeFiles/tcpClient.dir/ServerConnection.cpp.o"
   "/home/li/dev/co-design-core-add-hololens/clion-client/main.cpp" "/home/li/dev/co-design-core-add-hololens/clion-client/cmake-build-debug/CMakeFiles/tcpClient.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

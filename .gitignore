@@ -10,6 +10,16 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+
+
+/clion-client/cmake-build-debug
+/clion-client/.idea
+
+/clion-server/cmake-build-debug
+
+/clion-server/.idea
+
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 

@@ -207,34 +207,31 @@ void *ServerThread(void *socket_desc) {
 }
 
 
-int main(int argc , char *argv[])
-{
-    int  new_socket , c , *new_sock;
-    struct sockaddr_in server , client;
+int main(int argc , char *argv[]) {
+    int new_socket, c, *new_sock;
+    struct sockaddr_in server, client;
     char *message;
 
 
-serverManager.ServerSocket    = socket(AF_INET , SOCK_STREAM , 0);
-    if (serverManager.ServerSocket  == -1)
-    {
+    serverManager.ServerSocket = socket(AF_INET, SOCK_STREAM, 0);
+    if (serverManager.ServerSocket == -1) {
         printf("Could not create socket");
     }
 
     //Prepare the sockaddr_in structure
     server.sin_family = AF_INET;
     server.sin_addr.s_addr = INADDR_ANY;
-    server.sin_port = htons( 27015 );
+    server.sin_port = htons(27015);
 
     //Bind
-    if( bind(serverManager.ServerSocket ,(struct sockaddr *)&server , sizeof(server)) < 0)
-    {
+    if (bind(serverManager.ServerSocket, (struct sockaddr *) &server, sizeof(server)) < 0) {
         puts("bind failed");
         return 1;
     }
     puts("bind done");
 
     //Listen
-    listen(serverManager.ServerSocket  , SOMAXCONN);
+    listen(serverManager.ServerSocket, SOMAXCONN);
 
     //Accept and incoming connection
     puts("Waiting for incoming connections...");
@@ -243,10 +240,7 @@ serverManager.ServerSocket    = socket(AF_INET , SOCK_STREAM , 0);
     pthread_t server_thread;
 
 
-
-
-    if( pthread_create( &server_thread , NULL ,  ServerThread , 0) < 0)
-    {
+    if (pthread_create(&server_thread, NULL, ServerThread, 0) < 0) {
 
 
         perror("could not create thread");
@@ -257,20 +251,15 @@ serverManager.ServerSocket    = socket(AF_INET , SOCK_STREAM , 0);
         char input[6];
         scanf("%s", input);
 
-        if (strcmp(input, "clear") == 0)
-        {
+        if (strcmp(input, "clear") == 0) {
             system("cls");
         }
 
 
-        if (strcmp(input, "exit") == 0)
-        {
-            if (serverManager.m_Socket2Client.size() == 0)
-            {
+        if (strcmp(input, "exit") == 0) {
+            if (serverManager.m_Socket2Client.size() == 0) {
                 break;
-            }
-            else
-            {
+            } else {
                 printf("Client is running!\n\n");
             }
         }
@@ -283,7 +272,7 @@ serverManager.ServerSocket    = socket(AF_INET , SOCK_STREAM , 0);
 
     serverManager.m_Socket2Client.clear();
 
-    close(serverManager.ServerSocket);							// 4.2 No longer need server socket
+    close(serverManager.ServerSocket);                            // 4.2 No longer need server socket
 
     return 0;
 

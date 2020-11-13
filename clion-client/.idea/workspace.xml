@@ -31,12 +31,37 @@
   <component name="ChangeListManager">
     <list default="true" id="16c3157b-0d46-415d-b503-f9d57d5a350e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServerManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket-server.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tcpClient.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tcpClient" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tcpClient" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tcpClient.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tcpClient.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../clion-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../clion-server/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../clion-server/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../clion-server/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion-server/Socket-server.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../clion-server/Socket-server.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../clion-server/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../clion-server/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clion-server/Input.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clion-server/ServerManager.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clion-server/ServerManager.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clion-server/Socket-server.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../clion-server/cmake-build-debug/tcpServer" beforeDir="false" afterPath="$PROJECT_DIR$/../clion-server/cmake-build-debug/tcpServer" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../clion-server/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../clion-server/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clion/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clion/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +90,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../clion-server" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="tcpClient" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tcpClient" TARGET_NAME="tcpClient" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tcpClient" RUN_TARGET_NAME="tcpClient">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -100,29 +130,69 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605253283629">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1605253283629" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605244537119">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1605244537119" />
     <state x="1239" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1605236089003">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="1239" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1605236089003" />
-    <state width="871" height="277" key="GridCell.Tab.0.bottom" timestamp="1605236804621">
+    <state width="1807" height="344" key="GridCell.Tab.0.bottom" timestamp="1605257042083">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1872" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1605172983362" />
-    <state width="871" height="277" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1605236804621" />
-    <state width="871" height="277" key="GridCell.Tab.0.center" timestamp="1605236804619">
+    <state width="1807" height="344" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1605257042083" />
+    <state width="1807" height="344" key="GridCell.Tab.0.center" timestamp="1605257042082">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1872" height="275" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1605172983362" />
-    <state width="871" height="277" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1605236804619" />
-    <state width="871" height="277" key="GridCell.Tab.0.left" timestamp="1605236804617">
+    <state width="1807" height="344" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1605257042082" />
+    <state width="1807" height="344" key="GridCell.Tab.0.left" timestamp="1605257042081">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1872" height="275" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1605172983362" />
-    <state width="871" height="277" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1605236804617" />
-    <state width="871" height="277" key="GridCell.Tab.0.right" timestamp="1605236804620">
+    <state width="1807" height="344" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1605257042081" />
+    <state width="1807" height="344" key="GridCell.Tab.0.right" timestamp="1605257042082">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state width="1872" height="275" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1605172983362" />
-    <state width="871" height="277" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1605236804620" />
+    <state width="1807" height="344" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1605257042082" />
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom" timestamp="1605257042085">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1605257042085" />
+    <state width="1807" height="344" key="GridCell.Tab.1.center" timestamp="1605257042084">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1605257042084" />
+    <state width="1807" height="344" key="GridCell.Tab.1.left" timestamp="1605257042083">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1605257042083" />
+    <state width="1807" height="344" key="GridCell.Tab.1.right" timestamp="1605257042084">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1807" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1605257042084" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ServerConnection.cpp</url>
+          <line>43</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ClientApp.cpp</url>
+          <line>140</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

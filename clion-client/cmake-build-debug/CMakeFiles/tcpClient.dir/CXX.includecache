@@ -6,15 +6,39 @@
 
 #IncludeRegexTransform: 
 
-/home/li/dev/co-design-core-add-hololens/clion-client/main.cpp
+/home/li/dev/co-design-core-add-hololens/clion-client/ClientApp.cpp
+ClientApp.h
+/home/li/dev/co-design-core-add-hololens/clion-client/ClientApp.h
+
+/home/li/dev/co-design-core-add-hololens/clion-client/ClientApp.h
+ServerConnection.h
+/home/li/dev/co-design-core-add-hololens/clion-client/ServerConnection.h
+
+/home/li/dev/co-design-core-add-hololens/clion-client/ServerConnection.cpp
+ServerConnection.h
+/home/li/dev/co-design-core-add-hololens/clion-client/ServerConnection.h
+
+/home/li/dev/co-design-core-add-hololens/clion-client/ServerConnection.h
+stdlib.h
+-
 stdio.h
 -
+pthread.h
+-
+map
+-
 string.h
+-
+iostream
 -
 sys/socket.h
 -
 arpa/inet.h
 -
-pthread.h
+unistd.h
 -
+
+/home/li/dev/co-design-core-add-hololens/clion-client/main.cpp
+ClientApp.h
+/home/li/dev/co-design-core-add-hololens/clion-client/ClientApp.h
 

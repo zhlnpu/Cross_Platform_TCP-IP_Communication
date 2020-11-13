@@ -1,1 +1,1 @@
-/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/tcpClient.dir/main.cpp.o  -o tcpClient  -lpthread 
+/usr/bin/c++  -g   CMakeFiles/tcpClient.dir/main.cpp.o CMakeFiles/tcpClient.dir/ClientApp.cpp.o CMakeFiles/tcpClient.dir/ServerConnection.cpp.o  -o tcpClient -lpthread 

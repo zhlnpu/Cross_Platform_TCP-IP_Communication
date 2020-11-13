@@ -1,7 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/tcpClient.dir/main.cpp.o"
-  "tcpClient"
+  "CMakeFiles/tcpClient.dir/ClientApp.cpp.o"
+  "CMakeFiles/tcpClient.dir/ServerConnection.cpp.o"
   "tcpClient.pdb"
+  "tcpClient"
 )
 
 # Per-language clean rules from dependency scanning.
