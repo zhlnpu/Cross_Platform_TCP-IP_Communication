@@ -1,0 +1,22 @@
+﻿Build started 11/17/2020 4:21:51 PM.
+     1>Project "E:\Develop\co-design-core-add-hololens\core-ServerPC-image\core-ServerPC\core-ServerPC.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../include /I"../../pthreads-2.9.1\include" /IE:\Develop\3rdTools\OpenCV\opencv300\build\include\opencv2 /IE:\Develop\3rdTools\OpenCV\opencv300\build\include\opencv /IE:\Develop\3rdTools\OpenCV\opencv300\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ServerManager.cpp "Socket-server.cpp"
+         ServerManager.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+         Generating Code...
+         Compiling...
+         Socket-server.cpp
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+     1>e:\develop\co-design-core-add-hololens\core-serverpc-image\core-serverpc\socket-server.cpp(344): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : see declaration of 'scanf'
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Develop\co-design-core-add-hololens\core-ServerPC-image\..\x86\Debug\core-ServerPC.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\Develop\co-design-core-add-hololens\core-ServerPC-image\Debug\\" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\Develop\co-design-core-add-hololens\core-ServerPC-image\..\x86\Debug\core-ServerPC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Develop\co-design-core-add-hololens\core-ServerPC-image\..\x86\Debug\core-ServerPC.lib" /MACHINE:X86 Debug\ServerManager.obj
+         "Debug\Socket-server.obj"
+         core-ServerPC.vcxproj -> E:\Develop\co-design-core-add-hololens\core-ServerPC-image\..\x86\Debug\core-ServerPC.exe
+     1>Done Building Project "E:\Develop\co-design-core-add-hololens\core-ServerPC-image\core-ServerPC\core-ServerPC.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.54
